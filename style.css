@@ -17,3 +17,6 @@ h1{
 li {
     display: inline;
 }
+ol{
+  font-family: cursive;
+}
