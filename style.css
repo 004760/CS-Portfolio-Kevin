@@ -20,3 +20,8 @@ li {
 ol{
   font-family: cursive;
 }
+p{
+  float: middle;
+  color: green;
+  font-size: 30px
+}
