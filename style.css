@@ -5,10 +5,11 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    background-color:rgb(220,220,220)
+    width: 25%;
+    background-color: #f1f1f1;
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */ 
 }
 h1{
   font-family: sans-serif;
@@ -17,7 +18,7 @@ h1{
   
 }
 li {
-    display: block;
+    display: inline;
 }
 ol{
   font-family: cursive;
