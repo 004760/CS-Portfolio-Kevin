@@ -30,4 +30,6 @@ p{
 }
 img{
   float: middle;
+  border-style: solid;
+  border-color: lightskyblue;
 }
