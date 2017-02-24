@@ -1,12 +1,13 @@
  <!DOCTYPE html>
 <html>
 <head>
-<title>Cool Shoes</title>
+<title>Hobbies</title>
 </head>
 <body>
 
-<h1>Look at theses epic shoes</h1>
-<p>My first paragraph.</p>
+<h1>Let's look at some of he things I like to do</h1>
+<ol>
+<li> 
 
 </body>
 </html> 
