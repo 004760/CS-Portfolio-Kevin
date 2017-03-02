@@ -45,7 +45,6 @@ img{
 }
 table, th, td {
     border: 1px solid black;
-}
-td{
   background-color:green;
   font-size:30px;
+}
