@@ -52,5 +52,8 @@ img.biggo {
   width:100px;
     height:100px;
   float:right;
-
 }
+p.align {
+ float:right; 
+}
+  
